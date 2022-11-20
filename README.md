@@ -1,7 +1,6 @@
 # valkyria.vip
 
-
-Welcome to Valkyria official Github AccounT
+Welcome to Valkyria! 🙂
 
 Our mission is to help your server become more professional by providing affordable yet high quality services, along with innovative and intuitive features. 
 > Our **PCU** (`User Control Panel`) allows your players to **manage their characters**, verify their account with their **roleplay knowledge** and manage the account globally.
