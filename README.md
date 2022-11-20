@@ -9,6 +9,6 @@ Our mission is to help your server become more professional by providing afforda
 > Our **Intranet **(`Administrative Panel`) allows your moderators to manage users profiles, view the amount of registered users, view a player's information such as vehicles, items, properties or add warning/bans to them.
 
 **Links**:
-:globe_with_meridians: **Website** » https://valkyria.vip/
-:gear: **PCU** » https://pcu.valkyria.vip/
-:mobile_phone: **Intranet** » https://intranet.valkyria.vip/
+🌐 **Website** » https://valkyria.vip/
+🏆 **PCU** » https://pcu.valkyria.vip/
+📱 **Intranet** » https://intranet.valkyria.vip/
